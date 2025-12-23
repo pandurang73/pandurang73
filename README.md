@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="linkedin.com/in/pandurang-mhaske" target="_blank">
+  <a href="https://www.linkedin.com/in/pandurang-mhaske" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>
   </a>
   <a href="mailto:pandurangmhaske111@gmail.com">
